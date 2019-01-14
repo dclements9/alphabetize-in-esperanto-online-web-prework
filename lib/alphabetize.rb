@@ -6,5 +6,6 @@ def alphabetize(arr)
     phrase.split("").map do |character|
       esperanto_alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
       esperanto.index(character)
-
+    end  
+  end
 end
