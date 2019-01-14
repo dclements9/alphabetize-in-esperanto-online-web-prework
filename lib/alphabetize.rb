@@ -7,4 +7,5 @@ alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
       alphabet.index(character)
     end
   end
+  arr
 end
